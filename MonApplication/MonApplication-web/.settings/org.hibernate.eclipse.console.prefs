@@ -1,0 +1,3 @@
+default.configuration=MonApplication-web
+eclipse.preferences.version=1
+hibernate3.enabled=true
